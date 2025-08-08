@@ -50,16 +50,16 @@ export default function AboutSection() {
             <div className="max-w-md text-sm md:text-base">
               <h4 className="font-bold uppercase mb-2">It all begins with a sound.</h4>
               <p className="mb-4">
-                Maybe it's a phonk banger. Maybe it's a Brazilian funk anthem. Or maybe it's just a catchy track that's going viral.
+                Maybe it&apos;s a phonk banger. Maybe it&apos;s a Brazilian funk anthem. Or maybe it&apos;s just a catchy track that&apos;s going viral.
                 Whatever it is, sharing your music with the world starts with the right platform.
               </p>
               <p>
                 At Loop Hit Music, we focus on viral, high-potential tracks — especially in phonk and Brazilian funk — and we help your
-                sound reach millions through DSPs, partnered and owned media channels. If it slaps, we'll help it spread.
+                sound reach millions through DSPs, partnered and owned media channels. If it slaps, we&apos;ll help it spread.
               </p>
               <p className="mt-4">
-                Don't worry about fitting a mold. Be real. Be bold. There are millions of tracks out there, but yours deserves to stand out.
-                If your music tells a story — we'll make sure the world hears it.
+                Don&apos;t worry about fitting a mold. Be real. Be bold. There are millions of tracks out there, but yours deserves to stand out.
+                If your music tells a story — we&apos;ll make sure the world hears it.
               </p>
             </div>
           </div>
