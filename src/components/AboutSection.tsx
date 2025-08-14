@@ -20,7 +20,7 @@ export default function AboutSection() {
   return (
     <section id="highlights" className="bg-gradient-to-r from-black to-blue-900 text-white py-20 px-6">
       <div className="max-w-7xl mx-auto space-y-16">
-        {/* Title */}
+        
         <ScrollReveal>
           <h2 className="text-5xl md:text-6xl font-extrabold italic text-center">
             BRING YOUR MUSIC TO THE WORLD
