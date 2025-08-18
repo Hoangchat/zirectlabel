@@ -6,7 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  base: "/zirectlabel",
+  basePath: "/zirectlabel",
   assetPrefix: "/zirectlabel",
 
 };
