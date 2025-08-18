@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Left: Logo */}
         <Link href="/" className="text-2xl font-bold text-blue-600 dark:text-white">
           <Image
-            src="/logo.png"
+            src="../public/logo.png"
             alt="Logo"
             width={100}
             height={40}
