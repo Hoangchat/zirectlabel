@@ -19,6 +19,7 @@ const youtubeChannels = [
   { src: "/images/unnamed.jpg", url: "https://www.youtube.com/watch?v=nNXHzermhtQ&list=OLAK5uy_lQidNdKlqYj3Fz3FzOsdLoOtlCQ67Gh-w&index=3", title: "TRALALERO TRALALA FUNK", description: "KW1K" },
   { src: "/images/FLAME AURA.jpg", url: "https://www.youtube.com/watch?v=JpUGZA1_pAw&list=OLAK5uy_mAYkrRg7HEhhega96pIlf1XOmKVZV3aOs&index=4", title: "FLAME AURA", description: "uniwes, FAB10" },
   { src: "/images/Novo Mundo.png", url: "https://www.youtube.com/watch?v=-4MZm1Rwh4c&list=OLAK5uy_kj_yeAkTQBSQF4680b5zr9jQOGMQy64mI&index=3", title: "Novo Mundo", description: "uniwes" },
+  { src: "https://i.pinimg.com/1200x/e6/34/d3/e634d384fb0c31d7245d70d6f70f830d.jpg", url: "https://www.youtube.com/watch?v=-4MZm1Rwh4c&list=OLAK5uy_kj_yeAkTQBSQF4680b5zr9jQOGMQy64mI&index=3", title: "Novo Mundo", description: "uniwes" },
 ];
 
 export default function AboutSection() {
