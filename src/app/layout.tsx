@@ -1,6 +1,6 @@
 // app/layout.tsx
 import './globals.css';
-export const metadata = { title: 'Loop Hit Music', description: 'Independent phonk label' };
+export const metadata = { title: 'Zirect Label', description: 'Independent phonk label' };
 
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
