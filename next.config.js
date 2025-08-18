@@ -6,6 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/zirectlabel",
+
 };
 
 module.exports = nextConfig;
