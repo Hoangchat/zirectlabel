@@ -126,7 +126,7 @@ export default function ContactForm() {
           {/* Right: Logo or Illustration */}
           <div className="flex justify-center">
             <Image
-              src="../public/logo.png"
+              src="/logo.png"
               alt="Logo"
               width={400}
               height={400}
