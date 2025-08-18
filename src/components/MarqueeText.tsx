@@ -16,7 +16,7 @@ export default function MarqueeText() {
             key={i}
             className="mx-8 font-bold text-xs md:text-sm tracking-widest text-white"
           >
-            ✷ IT ALL BEGINS WITH AN IDEA
+            😈Welcome to ZIRECT LABEL🔥
           </span>
         ))}
       </div>
