@@ -17,7 +17,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
 
         {/* Subscribe Form - Left */}
-        <div className="w-full">
+        {/* <div className="w-full">
           <h4 className="text-lg font-semibold mb-3">Email</h4>
           <form onSubmit={handleSubmit} className="flex max-w-xs">
             <input
@@ -35,7 +35,7 @@ export default function Footer() {
               Sign Up
             </button>
           </form>
-        </div>
+        </div> */}
 
         {/* Social Links - Right */}
         <div className="w-full flex justify-center md:justify-end gap-4">
