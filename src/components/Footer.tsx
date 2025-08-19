@@ -18,7 +18,7 @@ export default function Footer() {
 
         {/* Subscribe Form - Left */}
         <div className="w-full">
-          <h4 className="text-lg font-semibold mb-3">Stay in the loop</h4>
+          <h4 className="text-lg font-semibold mb-3">Email</h4>
           <form onSubmit={handleSubmit} className="flex max-w-xs">
             <input
               type="email"
