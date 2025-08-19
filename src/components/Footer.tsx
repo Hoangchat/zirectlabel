@@ -8,13 +8,13 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-8 items-center justify-center">
   {/* Social Links - Center */}
   <div className="w-full flex justify-center gap-4">
-    <Link href="https://instagram.com" target="_blank" aria-label="Instagram">
+    <Link href="https://www.instagram.com/zirect_label/" target="_blank" aria-label="Instagram">
       <FaInstagram className="w-10 h-10" />
     </Link>
-    <Link href="https://youtube.com" target="_blank" aria-label="YouTube">
+    <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
       <FaYoutube className="w-10 h-10" />
     </Link>
-    <Link href="https://facebook.com" target="_blank" aria-label="Facebook">
+    <Link href="https://www.facebook.com/zirectlabel" target="_blank" aria-label="Facebook">
       <FaFacebook className="w-10 h-10" />
     </Link>
   </div>

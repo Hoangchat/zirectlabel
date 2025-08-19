@@ -43,7 +43,7 @@ export default function Navbar() {
           <Link href="https://www.instagram.com/zirect_label/" target="_blank" aria-label="Instagram">
             <FaInstagram className="w-5 h-5" />
           </Link>
-          <Link href="https://www.youtube.com/channel/UCwlUKmHKk25ZnxqA-YMvxJA?sub_confirmation=1" target="_blank" aria-label="YouTube">
+          <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
             <FaYoutube className="w-5 h-5" />
           </Link>
           <Link href="https://www.facebook.com/zirectlabel" target="_blank" aria-label="Facebook">
@@ -80,7 +80,7 @@ export default function Navbar() {
             <Link href="https://www.instagram.com/zirect_label/" target="_blank" aria-label="Instagram">
               <FaInstagram className="w-5 h-5" />
             </Link>
-            <Link href="https://www.youtube.com/channel/UCwlUKmHKk25ZnxqA-YMvxJA?sub_confirmation=1" target="_blank" aria-label="YouTube">
+            <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
               <FaYoutube className="w-5 h-5" />
             </Link>
             <Link href="https://www.facebook.com/zirectlabel" target="_blank" aria-label="Facebook">
