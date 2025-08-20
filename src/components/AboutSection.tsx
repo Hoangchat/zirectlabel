@@ -12,13 +12,15 @@ const playlistData = [
 
 const youtubeChannels = [
   { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://www.youtube.com/watch?v=rjsZeY1uT-w&list=OLAK5uy_nPAu-y87pF_0ITMB-JZIWcVBWyiEKOZYI&index=4", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
+  { src: "./images/Luz De La Luna.png", url: "https://www.youtube.com/watch?v=zG1yu8TWYv4&list=OLAK5uy_npzP7O_Lcun7Y2lQaxIFGmLp_KeChMZlU&index=3", title: "Luz De La Luna", description: "KZNL, uniwes" },
+  { src: "./images/HAUNTING ME.png", url: "https://www.youtube.com/watch?v=Gb64hmub0oA&list=OLAK5uy_nPTGcP-ZChETJ2M6u60mQ7pTUcFlynP_w&index=3", title: "HAUNTING ME", description: "uniwes" },
   { src: "./images/DANÇA TAKA.png", url: "https://www.youtube.com/watch?v=AyzYpUnS_ks&list=OLAK5uy_kU9-PAvPWjMzsithRWVKsbSGwVkS2dBWA&index=2", title: "DANÇA TAKA", description: "FAB10, DJZPX" },
-  { src: "./images/Portão do Céu.png", url: "https://www.youtube.com/watch?v=654BZYpX9fU&list=OLAK5uy_kF_W1fcLW4r_hQ1YjTlmJ97daOM0WRpCc&index=2", title: "Portão do Céu", description: "KW1K, FAB10" },
-  { src: "./images/TUNG SAHUR FUNK.jpg", url: "https://www.youtube.com/watch?v=uT0Xsxj0SQw&list=OLAK5uy_kpWCYcEQfsO-bXsK59ix5ow84iWHJcJfg&index=1", title: "TUNG SAHUR FUNK", description: "KW1K" },
   { src: "./images/1 B!T.png", url: "https://www.youtube.com/watch?v=FVidVx2QJLc&list=OLAK5uy_lQ0egE06EPfDknUNfN1XPkapGvUkMRVbE&index=3", title: "1 B!t", description: "DJ FiK, uniwes" },
-  { src: "./images/unnamed.jpg", url: "https://www.youtube.com/watch?v=nNXHzermhtQ&list=OLAK5uy_lQidNdKlqYj3Fz3FzOsdLoOtlCQ67Gh-w&index=3", title: "TRALALERO TRALALA FUNK", description: "KW1K" },
+  { src: "./images/Portão do Céu.png", url: "https://www.youtube.com/watch?v=654BZYpX9fU&list=OLAK5uy_kF_W1fcLW4r_hQ1YjTlmJ97daOM0WRpCc&index=2", title: "Portão do Céu", description: "KW1K, FAB10" },
   { src: "./images/FLAME AURA.jpg", url: "https://www.youtube.com/watch?v=JpUGZA1_pAw&list=OLAK5uy_mAYkrRg7HEhhega96pIlf1XOmKVZV3aOs&index=4", title: "FLAME AURA", description: "uniwes, FAB10" },
   { src: "./images/Novo Mundo.png", url: "https://www.youtube.com/watch?v=-4MZm1Rwh4c&list=OLAK5uy_kj_yeAkTQBSQF4680b5zr9jQOGMQy64mI&index=3", title: "Novo Mundo", description: "uniwes" },
+  { src: "./images/Empurra E Toma!.png", url: "https://www.youtube.com/watch?v=ULvs_kGVxek&list=OLAK5uy_lR3teIotZh_pBdBrHpWvvlZTuRJMY7es8&index=3", title: "Empurra E Toma!", description: "DJZPX" },
+  { src: "./images/CORONA FUNK.jpg", url: "https://www.youtube.com/watch?v=LJnDy62OD8k&list=OLAK5uy_nHqpX7SXM8T7H49bUt_NxE9H_9xFmkv8M&index=3", title: "CORONA FUNK", description: "uniwes" },
 ];
 
 export default function AboutSection() {
