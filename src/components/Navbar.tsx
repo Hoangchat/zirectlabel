@@ -40,7 +40,7 @@ export default function Navbar() {
 
         {/* Right: Social Links (desktop only) */}
         <div className="hidden md:flex space-x-4 items-center">
-          <Link href="instagram.com/zirect.label" target="_blank" aria-label="Instagram">
+          <Link href="https://www.instagram.com/zirect.label/" target="_blank" aria-label="Instagram">
             <FaInstagram className="w-5 h-5" />
           </Link>
           <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
