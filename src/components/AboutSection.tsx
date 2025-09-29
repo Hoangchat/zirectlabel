@@ -5,9 +5,9 @@ import ScrollReveal from './ScrollReveal';
 import Link from 'next/link';
 
 const playlistData = [
-  { src: "./images/PLL1.png", followers: "PLAYLIST.", url: "https://open.spotify.com/playlist/3T7iY2hYQJLB3JKubnkXjl" },
+  { src: "./images/PLL1.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/3T7iY2hYQJLB3JKubnkXjl" },
   { src: "./images/222.png", followers: "+20.000.000 PLAYS ON SOUNDCLOUD.", url: "https://soundcloud.com/" },
-  { src: "./images/3333.png", followers: "PLAYLIST.", url: "https://open.spotify.com/playlist/15haiEJWHeyZDWLoti9sF5" }
+  { src: "./images/3333.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/15haiEJWHeyZDWLoti9sF5" }
 ];
 
 const youtubeChannels = [
