@@ -12,7 +12,9 @@ const playlistData = [
 
 const youtubeChannels = [
   { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://www.youtube.com/watch?v=rjsZeY1uT-w&list=OLAK5uy_nPAu-y87pF_0ITMB-JZIWcVBWyiEKOZYI&index=4", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
+  { src: "./images/CAOS.jpg", url: "https://www.youtube.com/watch?v=xrn1ZLVxaIA", title: "CAOS", description: "ASHBXRN" },
   { src: "./images/Luz De La Luna.png", url: "https://www.youtube.com/watch?v=QM5QFMypDJU&list=OLAK5uy_npzP7O_Lcun7Y2lQaxIFGmLp_KeChMZlU&index=2", title: "Luz De La Luna", description: "KZNL, uniwes" },
+  { src: "./images/MONTAGEM DEXI.jpg", url: "https://www.youtube.com/watch?v=-zhEA9Rjl80", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" },
   { src: "./images/HAUNTING ME.png", url: "https://www.youtube.com/watch?v=Gb64hmub0oA&list=OLAK5uy_nPTGcP-ZChETJ2M6u60mQ7pTUcFlynP_w&index=3", title: "HAUNTING ME", description: "uniwes" },
   { src: "./images/DANÇA TAKA.png", url: "https://www.youtube.com/watch?v=AyzYpUnS_ks&list=OLAK5uy_kU9-PAvPWjMzsithRWVKsbSGwVkS2dBWA&index=2", title: "DANÇA TAKA", description: "FAB10, DJZPX" },
   { src: "./images/1 B!T.png", url: "https://www.youtube.com/watch?v=FVidVx2QJLc&list=OLAK5uy_lQ0egE06EPfDknUNfN1XPkapGvUkMRVbE&index=3", title: "1 B!t", description: "DJ FiK, uniwes" },
