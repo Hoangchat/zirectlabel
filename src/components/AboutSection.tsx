@@ -5,24 +5,23 @@ import ScrollReveal from './ScrollReveal';
 import Link from 'next/link';
 
 const playlistData = [
-  { src: "./images/PLL1.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/3T7iY2hYQJLB3JKubnkXjl" },
+  { src: "./images/PLL1.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/7k4i3PVzYOEYlfT1QuuoWb" },
   { src: "./images/222.png", followers: "+20.000.000 PLAYS ON SOUNDCLOUD.", url: "https://soundcloud.com/" },
   { src: "./images/3333.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/15haiEJWHeyZDWLoti9sF5" }
 ];
 
 const youtubeChannels = [
-  { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://www.youtube.com/watch?v=rjsZeY1uT-w&list=OLAK5uy_nPAu-y87pF_0ITMB-JZIWcVBWyiEKOZYI&index=4", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
+  { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/album/6HQxrRfhwZvb2bjD5vNi5x", title: "MONTAGEM CONTIGO", description: "uniwes" },
+  { src: "./images/CROMATIC.jpg", url: "https://open.spotify.com/album/0J2ArZQOUwXngG29Fn4Iq7", title: "CROMATIC", description: "ASHBXRN" },
+  { src: "./images/FUNK DO RUSH E.jpg", url: "https://open.spotify.com/album/766EkvhUsoixoQ0x1eizef", title: "FUNK DO RUSH E", description: "Teroxiss, FORGOTTEN K8D" },
+  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/artist/3ON6MB19dGL44ErZ5ESnE3", title: "MONTAGEM SAFADA", description: "uniwes" },
+  { src: "./images/LOST SOUL FUNK.jpg", url: "https://open.spotify.com/album/41BDBokJWnC6SfYlibhy8W", title: "LOST SOUL FUNK", description: "benc3" },
+  { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://open.spotify.com/album/03noDJQvFUe3TYiThj6tEs", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
   { src: "./images/CAOS.jpg", url: "https://www.youtube.com/watch?v=xrn1ZLVxaIA", title: "CAOS", description: "ASHBXRN" },
-  { src: "./images/Luz De La Luna.png", url: "https://www.youtube.com/watch?v=QM5QFMypDJU&list=OLAK5uy_npzP7O_Lcun7Y2lQaxIFGmLp_KeChMZlU&index=2", title: "Luz De La Luna", description: "KZNL, uniwes" },
-  { src: "./images/MONTAGEM DEXI.jpg", url: "https://www.youtube.com/watch?v=-zhEA9Rjl80", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" },
-  { src: "./images/HAUNTING ME.png", url: "https://www.youtube.com/watch?v=Gb64hmub0oA&list=OLAK5uy_nPTGcP-ZChETJ2M6u60mQ7pTUcFlynP_w&index=3", title: "HAUNTING ME", description: "uniwes" },
-  { src: "./images/DANÇA TAKA.png", url: "https://www.youtube.com/watch?v=AyzYpUnS_ks&list=OLAK5uy_kU9-PAvPWjMzsithRWVKsbSGwVkS2dBWA&index=2", title: "DANÇA TAKA", description: "FAB10, DJZPX" },
-  { src: "./images/1 B!T.png", url: "https://www.youtube.com/watch?v=FVidVx2QJLc&list=OLAK5uy_lQ0egE06EPfDknUNfN1XPkapGvUkMRVbE&index=3", title: "1 B!t", description: "DJ FiK, uniwes" },
-  { src: "./images/Portão do Céu.png", url: "https://www.youtube.com/watch?v=654BZYpX9fU&list=OLAK5uy_kF_W1fcLW4r_hQ1YjTlmJ97daOM0WRpCc&index=2", title: "Portão do Céu", description: "KW1K, FAB10" },
-  { src: "./images/FLAME AURA.jpg", url: "https://www.youtube.com/watch?v=JpUGZA1_pAw&list=OLAK5uy_mAYkrRg7HEhhega96pIlf1XOmKVZV3aOs&index=4", title: "FLAME AURA", description: "uniwes, FAB10" },
-  { src: "./images/Novo Mundo.png", url: "https://www.youtube.com/watch?v=-4MZm1Rwh4c&list=OLAK5uy_kj_yeAkTQBSQF4680b5zr9jQOGMQy64mI&index=3", title: "Novo Mundo", description: "uniwes" },
-  { src: "./images/Empurra E Toma!.png", url: "https://www.youtube.com/watch?v=ULvs_kGVxek&list=OLAK5uy_lR3teIotZh_pBdBrHpWvvlZTuRJMY7es8&index=3", title: "Empurra E Toma!", description: "DJZPX" },
-  { src: "./images/CORONA FUNK.jpg", url: "https://www.youtube.com/watch?v=LJnDy62OD8k&list=OLAK5uy_nHqpX7SXM8T7H49bUt_NxE9H_9xFmkv8M&index=3", title: "CORONA FUNK", description: "uniwes" },
+  { src: "./images/Luz De La Luna.png", url: "https://open.spotify.com/album/5S31AVCTpz1AJxqDw9gonl", title: "Luz De La Luna", description: "KZNL, uniwes" },
+  { src: "./images/MONTAGEM DEXI.jpg", url: "https://open.spotify.com/album/0QirqfPT6cziGrDvhOoDKs", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" },
+  { src: "./images/DANÇA TAKA.png", url: "https://open.spotify.com/track/7b0qthbzQjh2UYuaSiFnHW", title: "DANÇA TAKA", description: "FAB10, DJZPX" }
+
 ];
 
 export default function AboutSection() {
@@ -44,11 +43,11 @@ export default function AboutSection() {
                 <div key={index} className="flex items-center gap-3 sm:gap-4">
                   <div className="shrink-0">
                     <Link href={playlist.url} target="_blank" rel="noopener noreferrer">
-                      <Image 
-                        src={playlist.src} 
-                        width={120} 
-                        height={120} 
-                        alt={`playlist ${index + 1}`} 
+                      <Image
+                        src={playlist.src}
+                        width={120}
+                        height={120}
+                        alt={`playlist ${index + 1}`}
                         className='w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-[120px] lg:h-[120px] object-contain'
                       />
                     </Link>
@@ -64,14 +63,14 @@ export default function AboutSection() {
             <div className="max-w-xl md:max-w-[520px] lg:max-w-xl text-sm md:text-[15px] lg:text-base" style={{ fontFamily: "'Inter', Arial, Helvetica, sans-serif" }}>
               <h4 className="font-bold uppercase mb-2">Let us bring your music to the world.</h4>
               <p className="mb-4">
-              A dark, powerful phonk beat. A vibrant Brazilian funk groove. Or maybe an unexpected hook that takes over the internet overnight.
-              The spark is yours — the reach is ours.
+                A dark, powerful phonk beat. A vibrant Brazilian funk groove. Or maybe an unexpected hook that takes over the internet overnight.
+                The spark is yours — the reach is ours.
               </p>
               <p>
-              At Zirect Label, we don&apos;t just release tracks — we build momentum. We select high-energy, viral-ready sounds and launch them across DSPs, our own networks, and global media partners. The result? Your music isn&apos;t just heard — it&apos;s remembered.
+                At Zirect Label, we don&apos;t just release tracks — we build momentum. We select high-energy, viral-ready sounds and launch them across DSPs, our own networks, and global media partners. The result? Your music isn&apos;t just heard — it&apos;s remembered.
               </p>
               <p className="mt-4">
-              We maintain trusted partnerships with strategic partners, allowing you to join an official and secure YouTube CMS system. With our comprehensive support, we help your channel grow sustainably, reach the right audience, increase views and engagement, and optimize revenue. By combining your creative content with our powerful support platform, your YouTube channel will quickly break through and make a distinctive mark in the market.
+                We maintain trusted partnerships with strategic partners, allowing you to join an official and secure YouTube CMS system. With our comprehensive support, we help your channel grow sustainably, reach the right audience, increase views and engagement, and optimize revenue. By combining your creative content with our powerful support platform, your YouTube channel will quickly break through and make a distinctive mark in the market.
               </p>
             </div>
           </div>
@@ -88,14 +87,14 @@ export default function AboutSection() {
                 <Link key={index} href={channel.url} target="_blank" rel="noopener noreferrer">
                   <div className="flex flex-col items-center text-center min-h-[120px] justify-between w-full">
                     <div className='relative aspect-square w-full max-w-[200px] mb-3 overflow-hidden rounded-lg'>
-                      <Image 
-                        src={channel.src} 
-                        alt={`YouTube ${index + 1}`} 
+                      <Image
+                        src={channel.src}
+                        alt={`YouTube ${index + 1}`}
                         fill
                         sizes="(min-width: 1024px) 200px, (min-width: 768px) 160px, (min-width: 640px) 120px, 100px"
                         className="object-cover rounded-lg"
                       />
-                    </div> 
+                    </div>
                     <div className="flex flex-col items-center w-full px-2">
                       <h2 className='text-sm sm:text-base md:text-lg font-bold font-roboto text-white mb-1 leading-tight'>{channel.title}</h2>
                       {channel.description && (
