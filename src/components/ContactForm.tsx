@@ -126,11 +126,11 @@ export default function ContactForm() {
           {/* Right: Logo or Illustration */}
           <div className="flex justify-center">
             <Image
-              src="./logo.png"
+              src="./trang (1).png"
               alt="Logo"
               width={400}
               height={400}
-              className="object-contain rounded-xl border-4 border-gray-300 w-40 h-40 sm:w-64 sm:h-64 md:w-[400px] md:h-[400px]"
+              className="object-contain rounded-xl w-40 h-40 sm:w-64 sm:h-64 md:w-[400px] md:h-[400px]"
             />
           </div>
 
