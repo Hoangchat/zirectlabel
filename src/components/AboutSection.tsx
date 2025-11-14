@@ -14,7 +14,7 @@ const youtubeChannels = [
   { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/album/6HQxrRfhwZvb2bjD5vNi5x", title: "MONTAGEM CONTIGO", description: "uniwes" },
   { src: "./images/CROMATIC.jpg", url: "https://open.spotify.com/album/0J2ArZQOUwXngG29Fn4Iq7", title: "CROMATIC", description: "ASHBXRN" },
   { src: "./images/FUNK DO RUSH E.jpg", url: "https://open.spotify.com/album/766EkvhUsoixoQ0x1eizef", title: "FUNK DO RUSH E", description: "Teroxiss, FORGOTTEN K8D" },
-  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/artist/3ON6MB19dGL44ErZ5ESnE3", title: "MONTAGEM SAFADA", description: "uniwes" },
+  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/album/11KNcrC0Fl59NuHmzsmhWf", title: "MONTAGEM SAFADA", description: "uniwes" },
   { src: "./images/LOST SOUL FUNK.jpg", url: "https://open.spotify.com/album/41BDBokJWnC6SfYlibhy8W", title: "LOST SOUL FUNK", description: "benc3" },
   { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://open.spotify.com/album/03noDJQvFUe3TYiThj6tEs", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
   { src: "./images/CAOS.jpg", url: "https://www.youtube.com/watch?v=xrn1ZLVxaIA", title: "CAOS", description: "ASHBXRN" },
