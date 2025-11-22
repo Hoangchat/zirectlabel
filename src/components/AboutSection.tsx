@@ -11,6 +11,7 @@ const playlistData = [
 ];
 
 const youtubeChannels = [
+  { src: "./images/Elis.png", url: "https://open.spotify.com/album/5jCwMNbDkdpoKY8lMtsZ9x", title: "ESTRALIS", description: "ZXK, INFINITIX, CRVNER" },
   { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/album/6HQxrRfhwZvb2bjD5vNi5x", title: "MONTAGEM CONTIGO", description: "uniwes" },
   { src: "./images/CROMATIC.jpg", url: "https://open.spotify.com/album/0J2ArZQOUwXngG29Fn4Iq7", title: "CROMATIC", description: "ASHBXRN" },
   { src: "./images/FUNK DO RUSH E.jpg", url: "https://open.spotify.com/album/766EkvhUsoixoQ0x1eizef", title: "FUNK DO RUSH E", description: "Teroxiss, FORGOTTEN K8D" },
@@ -19,8 +20,7 @@ const youtubeChannels = [
   { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://open.spotify.com/album/03noDJQvFUe3TYiThj6tEs", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
   { src: "./images/CAOS.jpg", url: "https://www.youtube.com/watch?v=xrn1ZLVxaIA", title: "CAOS", description: "ASHBXRN" },
   { src: "./images/Luz De La Luna.png", url: "https://open.spotify.com/album/5S31AVCTpz1AJxqDw9gonl", title: "Luz De La Luna", description: "KZNL, uniwes" },
-  { src: "./images/MONTAGEM DEXI.jpg", url: "https://open.spotify.com/album/0QirqfPT6cziGrDvhOoDKs", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" },
-  { src: "./images/DANÇA TAKA.png", url: "https://open.spotify.com/track/7b0qthbzQjh2UYuaSiFnHW", title: "DANÇA TAKA", description: "FAB10, DJZPX" }
+  { src: "./images/MONTAGEM DEXI.jpg", url: "https://open.spotify.com/album/0QirqfPT6cziGrDvhOoDKs", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" }
 
 ];
 
