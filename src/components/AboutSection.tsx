@@ -11,16 +11,19 @@ const playlistData = [
 ];
 
 const youtubeChannels = [
-  { src: "./images/Elis.png", url: "https://open.spotify.com/album/5jCwMNbDkdpoKY8lMtsZ9x", title: "ESTRALIS", description: "ZXK, INFINITIX, CRVNER" },
-  { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/album/6HQxrRfhwZvb2bjD5vNi5x", title: "MONTAGEM CONTIGO", description: "uniwes" },
-  { src: "./images/CROMATIC.jpg", url: "https://open.spotify.com/album/0J2ArZQOUwXngG29Fn4Iq7", title: "CROMATIC", description: "ASHBXRN" },
-  { src: "./images/FUNK DO RUSH E.jpg", url: "https://open.spotify.com/album/766EkvhUsoixoQ0x1eizef", title: "FUNK DO RUSH E", description: "Teroxiss, FORGOTTEN K8D" },
-  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/album/11KNcrC0Fl59NuHmzsmhWf", title: "MONTAGEM SAFADA", description: "uniwes" },
-  { src: "./images/LOST SOUL FUNK.jpg", url: "https://open.spotify.com/album/41BDBokJWnC6SfYlibhy8W", title: "LOST SOUL FUNK", description: "benc3" },
-  { src: "./images/SLAVA FUNK 4.0!.jpg", url: "https://open.spotify.com/album/03noDJQvFUe3TYiThj6tEs", title: "SLAVA FUNK 4.0!", description: "uniwes, KW1K" },
-  { src: "./images/CAOS.jpg", url: "https://www.youtube.com/watch?v=xrn1ZLVxaIA", title: "CAOS", description: "ASHBXRN" },
-  { src: "./images/Luz De La Luna.png", url: "https://open.spotify.com/album/5S31AVCTpz1AJxqDw9gonl", title: "Luz De La Luna", description: "KZNL, uniwes" },
-  { src: "./images/MONTAGEM DEXI.jpg", url: "https://open.spotify.com/album/0QirqfPT6cziGrDvhOoDKs", title: "MONTAGEM DEXI", description: "FORGOTTEN K8D, AZXQZ" }
+  { src: "./images/Elis.png", url: "https://open.spotify.com/track/4hZmHlp2Xy9AZBJZSyPi7T", title: "ESTRALIS", description: "ZXK, INFINITIX, CRVNER" },
+  { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/track/4v2JIhkUgAFuUzPVCnAQaO", title: "MONTAGEM CONTIGO", description: "uniwes" },
+  { src: "./images/MONTAGEM LUNA.jpg", url: "https://open.spotify.com/track/5tksU9PoVhumFynn31xNFx", title: "MONTAGEM LUNA", description: "Zericxxn, D4R.IO" },
+  { src: "./images/SEGURA CORAÇÃO.png", url: "https://open.spotify.com/track/3TZlSPciMvxzlDdKQIh7gt", title: "SEGURA CORAÇÃO", description: "SXR3NE" },
+  { src: "./images/MONTAGEM FRAGRÂNCIA.jpg", url: "https://open.spotify.com/track/2O3N9wOKhTJtuC7VNjdRAR", title: "MONTAGEM FRAGRÂNCIA", description: "FLXME, Dj aleh" },
+  { src: "./images/MUNDO VAI DANÇAR.png", url: "https://open.spotify.com/track/1YeE3VOn91ht0zPidqZg1C", title: "MUNDO VAI DANÇAR", description: "shogrim" },
+  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/track/0kn0GkCAXPuF9h5bcWx9q1", title: "MONTAGEM SAFADA", description: "uniwes" },
+  { src: "./images/Sequencia Do Esfrega.png", url: "https://open.spotify.com/track/3aKRkqyyR6hSDXMqSTtR8M", title: "Sequencia Do Esfrega", description: "HXDES" },
+  { src: "./images/MONTAGEM PORTAMENTO HAZE.png", url: "https://open.spotify.com/track/0OHJcwQdXvNMjgMEiNMpYs", title: "MONTAGEM PORTAMENTO HAZE", description: "secrecy" },
+  { src: "./images/TREPA RITMICO.png", url: "https://open.spotify.com/track/5voO5sxT5eHqhm4S2vyzsK", title: "TREPA RITMICO", description: "gysix, Ranfish222" },
+  { src: "./images/f4llen_4ngel.jpg", url: "https://open.spotify.com/track/0Alhiiogdi0GKVushB8yHf", title: "f4llen_4ngel", description: "HAXLE" },
+  { src: "./images/zzzz.jpg", url: "https://open.spotify.com/track/2SPjKR6e78CR87hx87tag1", title: "hard.exe", description: "HAXLE" },
+  { src: "./images/Luz De La Luna.png", url: "https://open.spotify.com/album/5S31AVCTpz1AJxqDw9gonl", title: "Luz De La Luna", description: "KZNL, uniwes" }
 
 ];
 
