@@ -5,9 +5,9 @@ import ScrollReveal from './ScrollReveal';
 import Link from 'next/link';
 
 const playlistData = [
-  { src: "./images/PLL1.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/7k4i3PVzYOEYlfT1QuuoWb" },
-  { src: "./images/222.png", followers: "+20.000.000 PLAYS ON SOUNDCLOUD.", url: "https://soundcloud.com/" },
-  { src: "./images/3333.png", followers: "OUR PLAYLIST.", url: "https://open.spotify.com/playlist/15haiEJWHeyZDWLoti9sF5" }
+  { src: "./images/LABEL.png", followers: "SPOTIFY.", url: "https://open.spotify.com/user/312gicoeg6ltw45znigspd5cjq6i" },
+  { src: "./images/LABEL.png", followers: "SOUNDCLOUD.", url: "https://soundcloud.com/" },
+  { src: "./images/LABEL.png", followers: "LINKEDIN.", url: "https://www.linkedin.com/company/108134405" }
 ];
 
 const youtubeChannels = [
@@ -85,7 +85,7 @@ export default function AboutSection() {
         <ScrollReveal delay={0.3}>
           <div>
             <h2 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold italic text-center leading-tight mb-8 sm:mb-10 md:mb-12" style={{ fontFamily: "'Inter', Arial, Helvetica, sans-serif" }}>
-              MUSIC, PARTNER & YOUTUBE CHANNEL
+              OUR FEATURED TRACKS
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 sm:gap-6 md:gap-8 max-w-full overflow-hidden">
               {youtubeChannels.map((channel, index) => (
