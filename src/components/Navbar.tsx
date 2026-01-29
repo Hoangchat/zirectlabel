@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Left: Logo */}
         <Link href="/" className="text-2xl font-bold text-blue-600 dark:text-white">
           <Image
-            src="./trang (1).png"
+            src="./fixx.png"
             alt="Logo"
             width={100}
             height={40}
@@ -43,7 +43,7 @@ export default function Navbar() {
           <Link href="https://www.instagram.com/zirect.label/" target="_blank" aria-label="Instagram">
             <FaInstagram className="w-5 h-5" />
           </Link>
-          <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
+          <Link href="https://www.youtube.com/@zirectlabel" target="_blank" aria-label="YouTube">
             <FaYoutube className="w-5 h-5" />
           </Link>
           <Link href="https://www.facebook.com/zirectlabel" target="_blank" aria-label="Facebook">

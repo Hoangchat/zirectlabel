@@ -11,7 +11,7 @@ export default function Footer() {
     <Link href="https://www.instagram.com/zirect.label/" target="_blank" aria-label="Instagram">
       <FaInstagram className="w-10 h-10" />
     </Link>
-    <Link href="https://www.youtube.com/channel/UCXMBpneqrohBAOBwLeM1NDw?sub_confirmation=1" target="_blank" aria-label="YouTube">
+    <Link href="https://www.youtube.com/@zirectlabel" target="_blank" aria-label="YouTube">
       <FaYoutube className="w-10 h-10" />
     </Link>
     <Link href="https://www.facebook.com/zirectlabel" target="_blank" aria-label="Facebook">

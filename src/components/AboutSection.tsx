@@ -5,9 +5,9 @@ import ScrollReveal from './ScrollReveal';
 import Link from 'next/link';
 
 const playlistData = [
-  { src: "./images/LABEL.png", followers: "SPOTIFY.", url: "https://open.spotify.com/user/312gicoeg6ltw45znigspd5cjq6i" },
-  { src: "./images/LABEL.png", followers: "SOUNDCLOUD.", url: "https://soundcloud.com/" },
-  { src: "./images/LABEL.png", followers: "LINKEDIN.", url: "https://www.linkedin.com/company/108134405" }
+  { src: "./images/800x800cc.jpg", followers: "OUR PLAYLIST", url: "https://open.spotify.com/user/312gicoeg6ltw45znigspd5cjq6i" },
+  { src: "./images/zzzzzz.jpg", followers: "PHONK TIME", url: "https://www.youtube.com/channel/UC50Skh8HNEXD5Ir4StWh5MQ" },
+  { src: "./images/channels4_profile.jpg", followers: "PHONK HUB", url: "https://www.youtube.com/@phonkhub68" }
 ];
 
 const youtubeChannels = [
