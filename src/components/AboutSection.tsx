@@ -11,21 +11,21 @@ const playlistData = [
 ];
 
 const youtubeChannels = [
+  { src: "./images/Sombra y Corazón.png", url: "https://www.youtube.com/watch?v=IMjEpCPS-D8", title: "Sombra y Corazón", description: "jgrz" },
+  { src: "./images/MONTAGEM CASSANDRA.png", url: "https://www.youtube.com/watch?v=2_NK11oipys", title: "MONTAGEM CASSANDRA", description: "Space.exe, -Kriz!, REVERSXN " },
+  { src: "./images/MONTAGEM SACUDIR.png", url: "https://open.spotify.com/track/6fZSejPTdjrn9dz2gCHvZ6", title: "MONTAGEM SACUDIR", description: "secrecy" },
+  { src: "./images/APROVAÇÃO.png", url: "https://open.spotify.com/track/1FHns8JaO1YWuPIvuy1snP", title: "APROVAÇÃO", description: "Appys, LeoTHM, remy" },
+  { src: "./images/d4r.jpg", url: "https://www.youtube.com/watch?v=5brBgdakcX8", title: "MONTAGEM MISTERIOSO", description: "INFINITIX, CRVNER, D4R.IO" },
+  { src: "./images/PERMISO.png", url: "https://open.spotify.com/track/0q2Ay0Hta3LqbAxxyNYj2D", title: "PERMISO", description: "EnØch, CRVNER" },
+  { src: "./images/MONTAGEM LACRIMOSA.png", url: "https://open.spotify.com/track/3Q3TuInGaHeRXTM78UcNf0", title: "MONTAGEM LACRIMOSA", description: "AIGXL, Cruzt, dj.eddie" },
+  { src: "./images/VAI VOLTAR.png", url: "https://open.spotify.com/track/59HGwViqxjor8AtbRuJeJn", title: "VAI VOLTAR", description: "F_xyz_n, INXRT" },
+  { src: "./images/PISA NO ASFALTO.png", url: "https://www.youtube.com/watch?v=dno0DBaT-Rc", title: "PISA NO ASFALTO", description: "Space.exe, CRVNER, DJ VGK1" },
+  { src: "./images/Química.png", url: "https://open.spotify.com/track/7JKOMxFchagAuK8hRuf7AB", title: "Química", description: "K4RVΞR, UDXMXR" },
+  { src: "./images/MONTAGEM ODORI.png ", url: "https://www.youtube.com/watch?v=IZFo1FpFpjY", title: "MONTAGEM ODORI", description: "ZIRECT x ZXVN" },
+  { src: "./images/Neon do Futuro.png", url: "https://open.spotify.com/track/1wn929aFlSf6t3H7kmsxtN", title: "Neon do Futuro", description: "Appys, K4RVΞR" },
+  { src: "./images/MONTAGEM MIZUKI.jpg", url: "https://www.youtube.com/watch?v=B_JXN8OIsp4", title: "MONTAGEM MIZUKI", description: "ZIRECT x ZXVN" },
   { src: "./images/Elis.png", url: "https://open.spotify.com/track/4hZmHlp2Xy9AZBJZSyPi7T", title: "ESTRALIS", description: "ZXK, INFINITIX, CRVNER" },
-  { src: "./images/MONTAGEM CONTIGO.png", url: "https://open.spotify.com/track/4v2JIhkUgAFuUzPVCnAQaO", title: "MONTAGEM CONTIGO", description: "uniwes" },
-  { src: "./images/MONTAGEM LUNA.jpg", url: "https://open.spotify.com/track/5tksU9PoVhumFynn31xNFx", title: "MONTAGEM LUNA", description: "Zericxxn, D4R.IO" },
-  { src: "./images/SEGURA CORAÇÃO.png", url: "https://open.spotify.com/track/3TZlSPciMvxzlDdKQIh7gt", title: "SEGURA CORAÇÃO", description: "SXR3NE" },
-  { src: "./images/d4r.jpg", url: "https://open.spotify.com/track/7b9mDadwI4q00xFg4L9ouY", title: "MONTAGEM MISTERIOSO", description: "INFINITIX, CRVNER, D4R.IO" },
-  { src: "./images/MONTAGEM FRAGRÂNCIA.jpg", url: "https://open.spotify.com/track/2O3N9wOKhTJtuC7VNjdRAR", title: "MONTAGEM FRAGRÂNCIA", description: "FLXME, Dj aleh" },
-  { src: "./images/MUNDO VAI DANÇAR.png", url: "https://open.spotify.com/track/1YeE3VOn91ht0zPidqZg1C", title: "MUNDO VAI DANÇAR", description: "shogrim" },
-  { src: "./images/MONTAGEM SAFADA.jpg", url: "https://open.spotify.com/track/0kn0GkCAXPuF9h5bcWx9q1", title: "MONTAGEM SAFADA", description: "uniwes" },
-  { src: "./images/Sequencia Do Esfrega.png", url: "https://open.spotify.com/track/3aKRkqyyR6hSDXMqSTtR8M", title: "Sequencia Do Esfrega", description: "HXDES" },
-  { src: "./images/MONTAGEM PORTAMENTO HAZE.png", url: "https://open.spotify.com/track/0OHJcwQdXvNMjgMEiNMpYs", title: "MONTAGEM PORTAMENTO HAZE", description: "secrecy" },
-  { src: "./images/TREPA RITMICO.png", url: "https://open.spotify.com/track/5voO5sxT5eHqhm4S2vyzsK", title: "TREPA RITMICO", description: "gysix, Ranfish222" },
-  { src: "./images/ABYSS.png", url: "https://open.spotify.com/track/63jTpzS9Hp0O9eFOQzJtRW", title: "ABYSS", description: "Zericxxn, SZEKTAS" },
-  { src: "./images/f4llen_4ngel.jpg", url: "https://open.spotify.com/track/0Alhiiogdi0GKVushB8yHf", title: "f4llen_4ngel", description: "HAXLE" },
-  { src: "./images/zzzz.jpg", url: "https://open.spotify.com/track/2SPjKR6e78CR87hx87tag1", title: "hard.exe", description: "HAXLE" },
-  { src: "./images/Luz De La Luna.png", url: "https://open.spotify.com/album/5S31AVCTpz1AJxqDw9gonl", title: "Luz De La Luna", description: "KZNL, uniwes" }
+  { src: "./images/MONTAGEM TERREMOTO.jpg", url: "https://open.spotify.com/track/2sZn4oLfOSJJi6kZUdTDpY", title: "MONTAGEM TERREMOTO", description: "F_xyz_n, INXRT" }
 
 ];
 
